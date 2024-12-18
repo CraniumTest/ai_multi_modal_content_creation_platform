@@ -1,0 +1,6 @@
+openai
+torch
+transformers
+Pillow
+gTTS
+Flask
